@@ -1,4 +1,4 @@
-#eCommerce Transactions Data Science Assignment
+# eCommerce Transactions Data Science Assignment
 
 Overview
 
@@ -18,10 +18,10 @@ This repository contains the complete solution for the eCommerce Transactions Da
 ├── results/
 │   ├── EDA.pdf
 │   ├── Lookalike.csv
-│
+│   ├── Lookalike.pdf
 ├── README.md
 
-#Tasks & Deliverables
+# Tasks & Deliverables
 
 Task 1: Exploratory Data Analysis (EDA) & Business Insights
 
@@ -34,6 +34,7 @@ Deliverables:
 EDA.ipynb (Jupyter Notebook with EDA code)
 
 EDA.pdf (Business insights report)
+
 
 Task 2: Lookalike Model
 
