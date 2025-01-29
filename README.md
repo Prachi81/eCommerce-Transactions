@@ -5,13 +5,12 @@ Overview
 This repository contains the complete solution for the eCommerce Transactions Data Science Assignment. The project includes Exploratory Data Analysis (EDA), a Lookalike Model, and Customer Segmentation using clustering techniques.
 
 
-#Repository Structure
+# Repository Structure
 ├── data/
-
 │   ├── Customers.csv      
 │   ├── Products.csv
 │   ├── Transactions.csv
-│
+|
 ├── notebooks/
 │   ├── EDA.ipynb
 │   ├── Lookalike.ipynb
