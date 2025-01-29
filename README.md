@@ -7,7 +7,8 @@ This repository contains the complete solution for the eCommerce Transactions Da
 
 #Repository Structure
 ├── data/
-│   ├── Customers.csv
+
+│   ├── Customers.csv      
 │   ├── Products.csv
 │   ├── Transactions.csv
 │
